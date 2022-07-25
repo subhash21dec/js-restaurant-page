@@ -1,0 +1,23 @@
+{
+  "name": "js-restaurant-page",
+  "version": "1.0.0",
+  "description": "js-restauran-page\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dt-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhash21dec/js-restaurant-page.git"
+  },
+  "author": "subhash21dec",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/subhash21dec/js-restaurant-page/issues"
+  },
+  "homepage": "https://github.com/subhash21dec/js-restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
